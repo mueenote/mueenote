@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Moosa Mueen</h1>
 <h3 align="center">I spent more than five years managing outsourced apps and actively managing in-house application development for a major Maldivian telecom company. My knowledge of software development enables me to create successful products for customers. As a skilled developer, I'm seeking an opportunity to excel in a stimulating and challenging environment that will put my abilities to good use and encourage success through ongoing learning about new developments.</h3>
 
+- 🔭 I’m currently working on a clients **inventory management system, team service**
+
+- 🌱 I’m currently learning **Kubernetes, NextJs**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://mv.linkedin.com/in/moosa-mueen-3b030b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://mv.linkedin.com/in/moosa-mueen-3b030b216" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
